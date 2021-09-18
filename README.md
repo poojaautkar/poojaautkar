@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @poojaautkar
-- 👀 I’m interested in learn python and want to work further with help of this.
+- 👀 I’m interested in learn python, tableau and want to work further with help of this.
 - 🌱 I’m currently learning basic python
 
 <!---
